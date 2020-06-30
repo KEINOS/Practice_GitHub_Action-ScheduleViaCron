@@ -1,3 +1,5 @@
+[![](https://github.com/KEINOS/Practice_GitHub_Action-ScheduleViaCron/workflows/Automated/scheduled%20Workflow%20Sample/badge.svg?event=schedule)](https://github.com/KEINOS/Practice_GitHub_Action-ScheduleViaCron/actions?query=workflow%3A%22Automated%2Fscheduled+Workflow+Sample%22 "View Automated/scheduled Workflow Sample")
+
 # Practice of Schedule/Cron GitHub Action 
 
 Sample repo to see how does the "on.schedule" workflow works in GitHub Actions.
