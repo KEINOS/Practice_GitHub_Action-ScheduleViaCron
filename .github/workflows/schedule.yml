@@ -1,9 +1,10 @@
 name: Automated/scheduled Workflow Sample
 
-# Runs on every 15 minutes
+# Triggers the action as scheduled
 on:
+  # Runs on the 1st day of every month at 11:00 AM
   schedule:
-    # min hour day month weekday
+    # Cron format: min hour day month weekday
     - cron:  '0 11 1 * *'
 
 # The scheduled workflow to run 
